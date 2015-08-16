@@ -1,0 +1,7 @@
+C:\Users\Gilmar\Google Drive\Top Coder\Arena TopCoders\ArenaTopCoders\ArenaTopCodersTestes\bin\Debug\ArenaTopCodersTestes.dll
+C:\Users\Gilmar\Google Drive\Top Coder\Arena TopCoders\ArenaTopCoders\ArenaTopCodersTestes\bin\Debug\ArenaTopCodersTestes.pdb
+C:\Users\Gilmar\Google Drive\Top Coder\Arena TopCoders\ArenaTopCoders\ArenaTopCodersTestes\bin\Debug\ArenaTopCoders.exe
+C:\Users\Gilmar\Google Drive\Top Coder\Arena TopCoders\ArenaTopCoders\ArenaTopCodersTestes\bin\Debug\ArenaTopCoders.pdb
+C:\Users\Gilmar\Google Drive\Top Coder\Arena TopCoders\ArenaTopCoders\ArenaTopCodersTestes\obj\Debug\ArenaTopCodersTestes.csprojResolveAssemblyReference.cache
+C:\Users\Gilmar\Google Drive\Top Coder\Arena TopCoders\ArenaTopCoders\ArenaTopCodersTestes\obj\Debug\ArenaTopCodersTestes.dll
+C:\Users\Gilmar\Google Drive\Top Coder\Arena TopCoders\ArenaTopCoders\ArenaTopCodersTestes\obj\Debug\ArenaTopCodersTestes.pdb
